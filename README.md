@@ -4,6 +4,4 @@ Embedded control system for a coaxial helicopter designed to autonomously stabil
 
 ## Demo Video
 
-<video src="./uav_stabilizer_demo.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](./assets/uav_stabilizer_demo.mp4)
